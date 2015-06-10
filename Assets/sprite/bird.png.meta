@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 6403381a708a84d80911dbfca4662f88
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_0"
+    21300002: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_1"
+    21300004: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_2"
+    21300006: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_3"
+    21300008: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_4"
+    21300010: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_5"
+    21300012: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_6"
+    21300014: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_7"
+    21300016: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_8"
+    21300018: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_9"
+    21300020: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_10"
+    21300022: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_11"
+    21300024: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_12"
+    21300026: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_13"
+    21300028: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_14"
+    21300030: "\u53E3\u888B\u5996\u602A493-396_\u7231\u7ED9\u7F51_2gei_com_15"
+    21300032: bird_0
+    21300034: bird_1
+    21300036: bird_2
+    21300038: bird_3
+    21300040: bird_4
+    21300042: bird_5
+    21300044: bird_6
+    21300046: bird_7
+    21300048: bird_8
+    21300050: bird_9
+    21300052: bird_10
+    21300054: bird_11
+    21300056: bird_12
+    21300058: bird_13
+    21300060: bird_14
+    21300062: bird_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bird_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bird_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
